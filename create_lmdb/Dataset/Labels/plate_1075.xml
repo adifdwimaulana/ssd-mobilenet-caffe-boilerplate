@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ketilang-selected</folder>
+	<filename>plate_1075.jpg</filename>
+	<path>/home/adif/Future/Final-Project/Dataset/ketilang-selected/plate_1075.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>918</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>355</ymin>
+			<xmax>918</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+</annotation>

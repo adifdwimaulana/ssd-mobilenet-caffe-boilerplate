@@ -7,4 +7,4 @@ fi
 mkdir -p snapshot
 ../../build/tools/caffe train -solver="solver_train.prototxt" \
 -weights="mobilenet_iter_73000.caffemodel" \
--gpu 0 
+-gpu 0 2>&1 | tee /home/adif/garapinaja/caffe/models/Plate-MobileNet-Log-V2/model_train.log

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset adif</folder>
+	<filename>dataset_0004.png</filename>
+	<path>/home/adif/Future/Final-Project/dataset adif/dataset_0004.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>722</ymin>
+			<xmax>1072</xmax>
+			<ymax>825</ymax>
+		</bndbox>
+	</object>
+</annotation>

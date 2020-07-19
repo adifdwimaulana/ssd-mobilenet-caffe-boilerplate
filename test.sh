@@ -6,4 +6,4 @@ if test -z $latest; then
 fi
 ../../build/tools/caffe train -solver="solver_test.prototxt" \
 --weights=$latest \
--gpu 0
+-gpu 0 2>&1 | tee /home/adif/garapinaja/caffe/models/Plate-MobileNet-Log-V2/model_test.log

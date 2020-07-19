@@ -3,7 +3,7 @@
 # This file is used to create the list of train and test files for training and testing procedures. After the run trainval.txt, test.txt and test_name_size.txt files will be generated. These files map each image to its label file.
 
 # Modify the 'data_root_dir' to the location where your Images and Labels folders exist.
-data_root_dir=/media/vkchcp0013/mstu_hpat/priyal/create_lmdb/Dataset/  # Modify the path with your folder having Images and Labels directories.
+data_root_dir=/home/adif/garapinaja/caffe/models/Plate-MobileNet-Log-V2/create_lmdb/Dataset/  # Modify the path with your folder having Images and Labels directories.
 
 current_dir=`pwd`
 echo "current_dir: "${current_dir}

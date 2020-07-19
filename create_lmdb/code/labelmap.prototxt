@@ -4,27 +4,7 @@ item {
   display_name: "background"
 }
 item {
-  name: "car"
+  name: "plate"
   label: 1
-  display_name: "car"
-}
-item {
-  name: "bus"
-  label: 2
-  display_name: "bus"
-}
-item {
-  name: "motorcycle"
-  label: 3
-  display_name: "motorcycle"
-}
-item {
-  name: "bicycle"
-  label: 4
-  display_name: "bicycle"
-}
-item {
-  name: "truck"
-  label: 5
-  display_name: "truck"
+  display_name: "plate"
 }
